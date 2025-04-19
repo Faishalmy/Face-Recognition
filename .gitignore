@@ -1,0 +1,10 @@
+# Notebook checkpoint
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / IDE
+.DS_Store
+.vscode/
